@@ -1,6 +1,10 @@
 # Example Wireframes with UI Elements
 
 ![Image sample](wirefames.png "Wireframes")
+
+# Citation
+
+KAZANGIRLER, C.B., OZCAN, C.,  [Elle Çizilmiş Taslak Çizimlerde Kullanıcı Arabirimi Öğelerinin Derin Örnek Segmentasyonu](https://www.researchgate.net/publication/354280814_Elle_Cizilmis_Taslak_Cizimlerde_Kullanici_Arabirimi_Ogelerinin_Derin_Ornek_Segmentasyonu), In: International Conference on Data Science and Applications (ICONDATA), 2021.
 # Request Dataset
 
 Please send an e-mail to cahitberkaykazangirler@gmail.com to receive a link to the UIBEE dataset. Your e-mail must be sent from a legitimate institutional account and include the following text (copy and paste the following text into the required fields):
